@@ -2,7 +2,7 @@
   "name": "wiliot-demo-mqtt-nodejs",
   "version": "1.0.0",
   "dependencies": {
-    "mqtt": "^4.3.7",
+    "mqtt": "^5.3.5",
     "dotenv": "^2.0.0"
   },
     "scripts": {
